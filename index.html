@@ -44,7 +44,7 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Hi, My name is Henry</h1>
+								<h1>Hi, I'm Henry</h1>
 							</header>
 							<div class="content">
 								<p>You're here for one thing right?<br />
@@ -60,7 +60,24 @@
 					<div id="main">
 
 						<!-- One -->
+						<section id="two">
+							<div class="inner">
+								<header class="major">
+									<h2>TL;DR...</h2>
+								</header>
+								<p id="tldr">"Here lies my firstOffText"</p>
+								<script>
+									document.getElementById("tldr").innerHTML = tldr;
+								</script>
+								<ul class="actions">
+									<li><a href="generic.html" class="button next">More</a></li>
+								</ul>
+							</div>
+						</section>
+
+						<!-- Two -->
 							<section id="one" class="tiles">
+
 								<article>
 									<span class="image">
 										<img src="images/pic01.jpg" alt="" />
@@ -68,11 +85,10 @@
 									<header class="major">
 										<h3><a href="generic.html" class="link">About Me</a></h3>
 										<p id="aboutMeDesc">Ipsum dolor sit amet</p>
-										<script>
-											document.getElementById("aboutMeDesc").innerHTML = aboutMeDesc;
-										</script>						
+															
 									</header>
 								</article>
+
 								<article>
 									<span class="image">
 										<img src="images/pic02.jpg" alt="" />
@@ -80,11 +96,9 @@
 									<header class="major">
 										<h3><a href="landing.html" class="link">My Projects</a></h3>
 										<p id="myProjectsDesc">feugiat amet tempus</p>
-										<script>
-											document.getElementById("myProjectsDesc").innerHTML = myProjectsDesc;
-										</script>
 									</header>
 								</article>
+								
 								<article>
 									<span class="image">
 										<img src="images/pic03.jpg" alt="" />
@@ -92,9 +106,6 @@
 									<header class="major">
 										<h3><a href="elements.html" class="link">More</a></h3>
 										<p id="moreDesc">Lorem etiam nullam</p>
-										<script>
-											document.getElementById("moreDesc").innerHTML = moreDesc;
-										</script>
 									</header>
 								</article>
 								<!-- <article>
@@ -124,23 +135,15 @@
 										<p>Feugiat amet tempus</p>
 									</header>
 								</article> -->
+								<script>
+									document.getElementById("aboutMeDesc").innerHTML = aboutMeDesc;
+									document.getElementById("myProjectsDesc").innerHTML = myProjectsDesc;
+									document.getElementById("moreDesc").innerHTML = moreDesc;
+								</script>	
 							</section>
 
-						<!-- Two -->
-							<section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>TL;DR...</h2>
-									</header>
-									<p id="tldr">"Here lies my firstOffText"</p>
-									<script>
-										document.getElementById("tldr").innerHTML = tldr;
-									</script>
-									<ul class="actions">
-										<li><a href="generic.html" class="button next">More</a></li>
-									</ul>
-								</div>
-							</section>
+						
+						
 
 					</div>
 

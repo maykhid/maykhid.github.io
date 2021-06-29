@@ -14,5 +14,15 @@ const moreDesc = "What you won't see on LinkedIn"
 const tldr = "";
 
 // About me page strings
+const aboutMe1 = "1st Paragraph"
+const aboutMe2 = "2nd Paragraph"
+const aboutMe3 = "3rd Paragraph"
 
-// More page
+
+// More 
+const mainHeaderDesc = "The main header desc"
+const introductoryText = "The Introduction Text"
+const firstProjectText = "First project description"
+const secondProjectText = "Second project description"
+const thirdProjectText = "Third project description"
+const finalText = "Final text"
