@@ -8,10 +8,10 @@ class Strings {
 
 // Home page strings
 const myname = "Henry";
-const aboutMeDesc = "A bit about me maybe...";
+const aboutMeDesc = "The unveiling...";
 const myProjectsDesc = "Some of my projects...";
-const moreDesc = "What you won't see on LinkedIn"
-const tldr = "Hi, My name is <b>Ifebuandu Henry</b>. I'm a Software Developer. I have a Diploma in Mechanical Engineering " +
+const moreDesc = "What LinkedIn won't tell you"
+const tldr = "Hi, My name is <b>Ifebuandu Henry</b>. I'm a self taught (mostly) Software Developer. I have a Diploma in Mechanical Engineering " +
 "from <b>Yaba College of Technology.</b> " +
 "I specialize in building mobile applications using <b>Flutter</b>, " + 
 "I also dabble in <b>Native Android development</b> all employing development tools like "+
@@ -22,7 +22,9 @@ const tldr = "Hi, My name is <b>Ifebuandu Henry</b>. I'm a Software Developer. I
 
 // About me page strings
 const aboutMe1 = "1st Paragraph"
+
 const aboutMe2 = "2nd Paragraph"
+
 const aboutMe3 = "3rd Paragraph"
 
 
