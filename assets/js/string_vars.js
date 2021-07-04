@@ -45,7 +45,7 @@ const aboutMe5 = "Although being still very new in the grand scheme of things (S
 
 
 // Projects 
-const mainHeaderDesc = "The main header desc"
+const mainHeaderDesc = "Quick rundown on some of my projects"
 const introductoryText = "The Introduction Text"
 const firstProjectText = "First project description"
 const secondProjectText = "Second project description"
