@@ -27,7 +27,7 @@ const aboutMe1 = "I am a Junior Software Developer with about 2 years experience
 "I work to make better Mobile Apps, ones that are responsive, easy to use, eye-catching an frustration free. Irrespective of your specific business requirements, " +
 "in tackling these challanges, you'll find i'm worth working along side because I am task driven and eager to support companies building products that tackle crucial problems, create innovative businesses with modern solutions.";
 
-const aboutMe2 = "My main expertise is in Front-end development using Flutter but I also have interest for Back-end Development. " +
+const aboutMe2 = "My main expertise is in Front-end development using Flutter and core Android developement but I also have interest for Back-end Development. " +
 "Given that producing most mordern apps require some sort of backend technology, I recently started exploring my options and i'm settling for using the MEAN stack "+
 "(MongoDB, ExpressJS and NodeJS). I take interest in really getting to know a business, its goals and mission, " +
 "and I think about how I can best apply myself to make your businness a success. I can be a great addition to your team."
